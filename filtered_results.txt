@@ -216,3 +216,4 @@ ref|XP_007958263.3| breast cancer type 2 susceptibility protein isoform X1 [Chlo
 ref|XP_033091520.1| LOW QUALITY PROTEIN: breast cancer type 2 susceptibility protein [Trachypithecus francoisi]
 ref|XP_011853198.1| PREDICTED: breast cancer type 2 susceptibility protein [Mandrillus leucophaeus]
 gb|KAL4838279.1| hypothetical protein H8958_006876 [Nasalis larvatus]
+Total Significant Hits: 28

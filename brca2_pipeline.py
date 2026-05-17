@@ -37,8 +37,8 @@ with open("blast_result.xml") as b:
                          # print("Query Sequence:", hsp.query)
                          # print("Match Sequence:", hsp.sbjct)
                          print("-"*50, file=b)
-
-print("Total Significant Hits:", count)
+                        
+         print("Total Significant Hits:", count, file=b)
 
                
 
