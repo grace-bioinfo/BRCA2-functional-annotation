@@ -1,0 +1,218 @@
+gb|AAX42694.1| breast cancer 2 early onset, partial [synthetic construct]
+Score: 18337.0
+E-value: 0.0
+Identity: 3418
+Identity %: 100.0
+Gaps: 0
+--------------------------------------------------
+gb|AAB07223.1| BRCA2 [Homo sapiens] >gb|AAX41129.1| breast cancer 2 early onset [synthetic construct]
+Score: 18337.0
+E-value: 0.0
+Identity: 3418
+Identity %: 100.0
+Gaps: 0
+--------------------------------------------------
+gb|KAI2569073.1| BRCA2 DNA repair associated [Homo sapiens] >gb|KAI2569074.1| BRCA2 DNA repair associated [Homo sapiens]
+Score: 18332.0
+E-value: 0.0
+Identity: 3417
+Identity %: 99.97074
+Gaps: 0
+--------------------------------------------------
+gb|AYD59796.1| truncated breast and ovarian cancer susceptibility protein 2 [Homo sapiens]
+Score: 18331.0
+E-value: 0.0
+Identity: 3417
+Identity %: 99.97074
+Gaps: 0
+--------------------------------------------------
+gb|AAQ97181.1| breast cancer 2, early onset [Homo sapiens] >gb|ACX32322.1| breast cancer 2, early onset [synthetic construct] >gb|EAX08501.1| breast cancer 2, early onset, isoform CRA_c [Homo sapiens]
+Score: 18316.0
+E-value: 0.0
+Identity: 3416
+Identity %: 99.94149
+Gaps: 0
+--------------------------------------------------
+gb|WXT91737.1| BRCA2 DNA repair associated protein [Homo sapiens]
+Score: 18315.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|UGU37891.1| mutant DNA repair-associated protein 2 [Homo sapiens]
+Score: 18315.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|UGU37893.1| mutant DNA repair-associated protein 2 [Homo sapiens]
+Score: 18313.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|UGU37890.1| mutant DNA repair-associated protein 2 [Homo sapiens]
+Score: 18313.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|UGU37892.1| mutant DNA repair-associated protein 2 [Homo sapiens]
+Score: 18313.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+ref|NP_000050.3| breast cancer type 2 susceptibility protein isoform 1 [Homo sapiens] >ref|NP_001419006.1| breast cancer type 2 susceptibility protein isoform 1 [Homo sapiens] >sp|P51587.4| RecName: Full=Breast cancer type 2 susceptibility protein; AltName: Full=Fanconi anemia group D1 protein [Homo sapiens] >gb|XRQ53917.1| BRCA2 DNA repair associated protein [Homo sapiens]
+Score: 18312.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|KAI4062988.1| BRCA2 DNA repair associated [Homo sapiens] >gb|KAI4062990.1| BRCA2 DNA repair associated [Homo sapiens]
+Score: 18311.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|UGU37889.1| mutant DNA repair-associated protein 2 [Homo sapiens]
+Score: 18311.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|UGU37894.1| mutant DNA repair-associated protein 2 [Homo sapiens]
+Score: 18310.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|UGU37895.1| mutant DNA repair-associated protein 2 [Homo sapiens]
+Score: 18309.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|UGU37896.1| mutant DNA repair-associated protein 2 [Homo sapiens]
+Score: 18308.0
+E-value: 0.0
+Identity: 3415
+Identity %: 99.91223
+Gaps: 0
+--------------------------------------------------
+gb|EAX08499.1| breast cancer 2, early onset, isoform CRA_a [Homo sapiens]
+Score: 18300.0
+E-value: 0.0
+Identity: 3416
+Identity %: 99.91226
+Gaps: 1
+--------------------------------------------------
+emb|CAA64484.1| brca2 [Homo sapiens]
+Score: 18283.0
+E-value: 0.0
+Identity: 3410
+Identity %: 99.76594
+Gaps: 0
+--------------------------------------------------
+ref|XP_016780623.4| breast cancer type 2 susceptibility protein isoform X1 [Pan troglodytes]
+Score: 18194.0
+E-value: 0.0
+Identity: 3389
+Identity %: 99.15155
+Gaps: 0
+--------------------------------------------------
+ref|NP_001393649.1| breast cancer type 2 susceptibility protein isoform 2 [Homo sapiens]
+Score: 18192.0
+E-value: 0.0
+Identity: 3398
+Identity %: 99.41486
+Gaps: 17
+--------------------------------------------------
+gb|PNI60431.1| BRCA2 isoform 1 [Pan troglodytes] >gb|PNI60432.1| BRCA2 isoform 2 [Pan troglodytes]
+Score: 18180.0
+E-value: 0.0
+Identity: 3388
+Identity %: 99.12229
+Gaps: 0
+--------------------------------------------------
+ref|XP_003826914.4| breast cancer type 2 susceptibility protein [Pan paniscus]
+Score: 18169.0
+E-value: 0.0
+Identity: 3387
+Identity %: 99.09304
+Gaps: 0
+--------------------------------------------------
+ref|NP_001393648.1| breast cancer type 2 susceptibility protein isoform 3 [Homo sapiens]
+Score: 18097.0
+E-value: 0.0
+Identity: 3383
+Identity %: 98.97601
+Gaps: 32
+--------------------------------------------------
+ref|XP_016780624.4| breast cancer type 2 susceptibility protein isoform X2 [Pan troglodytes]
+Score: 17989.0
+E-value: 0.0
+Identity: 3357
+Identity %: 98.21533
+Gaps: 32
+--------------------------------------------------
+ref|XP_018895519.4| breast cancer type 2 susceptibility protein isoform X1 [Gorilla gorilla gorilla]
+Score: 17985.0
+E-value: 0.0
+Identity: 3353
+Identity %: 98.99616
+Gaps: 1
+--------------------------------------------------
+ref|XP_063553314.1| breast cancer type 2 susceptibility protein isoform X2 [Gorilla gorilla gorilla]
+Score: 17774.0
+E-value: 0.0
+Identity: 3321
+Identity %: 98.05137
+Gaps: 33
+--------------------------------------------------
+ref|XP_054302771.2| breast cancer type 2 susceptibility protein isoform X1 [Pongo pygmaeus]
+ref|XP_024086835.3| breast cancer type 2 susceptibility protein isoform X1 [Pongo abelii]
+gb|PNJ48564.1| BRCA2 isoform 1 [Pongo abelii] >gb|PNJ48565.1| BRCA2 isoform 2 [Pongo abelii]
+ref|XP_003270298.1| breast cancer type 2 susceptibility protein [Nomascus leucogenys]
+ref|XP_032006409.1| breast cancer type 2 susceptibility protein isoform X1 [Hylobates moloch]
+ref|XP_055100852.1| breast cancer type 2 susceptibility protein isoform X1 [Symphalangus syndactylus]
+ref|XP_055100853.1| breast cancer type 2 susceptibility protein isoform X2 [Symphalangus syndactylus]
+ref|XP_054520835.1| breast cancer type 2 susceptibility protein isoform X3 [Pan troglodytes]
+Score: 16851.0
+E-value: 0.0
+Identity: 3139
+Identity %: 99.11588
+Gaps: 0
+--------------------------------------------------
+ref|XP_032006410.1| breast cancer type 2 susceptibility protein isoform X2 [Hylobates moloch]
+gb|AYD59802.1| truncated breast and ovarian cancer susceptibility protein 2 [Homo sapiens]
+Score: 16803.0
+E-value: 0.0
+Identity: 3137
+Identity %: 99.8091
+Gaps: 0
+--------------------------------------------------
+ref|XP_055100854.1| breast cancer type 2 susceptibility protein isoform X3 [Symphalangus syndactylus]
+ref|XP_011746935.2| breast cancer type 2 susceptibility protein [Macaca nemestrina]
+gb|EHH58517.1| Fanconi anemia group D1 protein, partial [Macaca fascicularis]
+gb|EHH28937.1| Fanconi anemia group D1 protein, partial [Macaca mulatta]
+ref|XP_005585657.3| breast cancer type 2 susceptibility protein isoform X6 [Macaca fascicularis]
+ref|XP_003913789.3| breast cancer type 2 susceptibility protein isoform X1 [Papio anubis]
+ref|XP_050622759.1| breast cancer type 2 susceptibility protein [Macaca thibetana thibetana]
+ref|XP_077830302.1| breast cancer type 2 susceptibility protein isoform X1 [Macaca mulatta] >ref|XP_077830303.1| breast cancer type 2 susceptibility protein isoform X1 [Macaca mulatta]
+ref|XP_011920021.1| PREDICTED: breast cancer type 2 susceptibility protein isoform X1 [Cercocebus atys]
+ref|XP_025219749.1| breast cancer type 2 susceptibility protein [Theropithecus gelada]
+ref|XP_007958263.3| breast cancer type 2 susceptibility protein isoform X1 [Chlorocebus sabaeus]
+ref|XP_033091520.1| LOW QUALITY PROTEIN: breast cancer type 2 susceptibility protein [Trachypithecus francoisi]
+ref|XP_011853198.1| PREDICTED: breast cancer type 2 susceptibility protein [Mandrillus leucophaeus]
+gb|KAL4838279.1| hypothetical protein H8958_006876 [Nasalis larvatus]
