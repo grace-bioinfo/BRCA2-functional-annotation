@@ -1,6 +1,8 @@
 from Bio.Seq import Seq
-from Bio import SeqIO
+from Bio import Entrez, SeqIO
 from Bio.Blast import NCBIWWW, NCBIXML
+Entrez.email = "gracekagendonyaga@gmail.com"
+
 
 
 
@@ -17,6 +19,8 @@ from Bio.Blast import NCBIWWW, NCBIXML
 
 # print("BRCA2 blast was a success!")
 
+ids = []
+
 with open("blast_result.xml") as b:
     blast_records = NCBIXML.parse(b)
 
@@ -28,6 +32,7 @@ with open("blast_result.xml") as b:
                  for hsp in alignment.hsps:
                      identity_percent = (hsp.identities / hsp.align_length)*100
                      if hsp.expect < 0.05 and identity_percent > 98:
+                         ids.append(alignment.accession)
                          count += 1
                          print("Score:", hsp.score, file=b)
                          print("E-value:", hsp.expect, file=b)
@@ -37,8 +42,32 @@ with open("blast_result.xml") as b:
                          # print("Query Sequence:", hsp.query)
                          # print("Match Sequence:", hsp.sbjct)
                          print("-"*50, file=b)
-                        
-         print("Total Significant Hits:", count, file=b)
+                         print("Accessions collected:", len(ids))              
+                         print("Total Significant Hits:", count, file=b)
+
+# send our 28 ids(accession numbers) to NCBI to get sequences. Here we use Entrez.
+# Entrez helps you to search NCBI databases, fetch the records and use the sequences.
+# Above, we would have written only 2 lines of code(line 42,43) to get the sequences from the 
+# blast result file, it also applies, but i opted to use a longer method for practice
+
+fetch_homologs = Entrez.efetch(
+    db = "protein",
+    id = ids,
+    rettype = "fasta",
+    retmode = "text"
+)  
+# create a readable file to store the information
+
+with open("homologs.fasta", "w")as homologs:
+    homologs.write(fetch_homologs.read())
+
+    print("Homolog fetching was a success yay!")
+
+
+
+
+
+
 
                
 
